@@ -97,7 +97,7 @@ export const Works = () => {
                 <div className="cards-block">
                     
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/races.jpg"/>
+                        <Card.Img variant="top" src="races.jpg"/>
                         <Card.Body>
                             <Card.Title>Races</Card.Title>
                             <Card.Text>Racing Game on Java Script</Card.Text>
@@ -123,7 +123,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/todolist.png"/>
+                        <Card.Img variant="top" src="todolist.png"/>
                         <Card.Body>
                             <Card.Title>ToDoList</Card.Title>
                             <Card.Text>To-do list site</Card.Text>
@@ -149,7 +149,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="React">
-                        <Card.Img variant="top" src="img/calcMoney.jpg"/>
+                        <Card.Img variant="top" src="calcMoney.jpg"/>
                         <Card.Body>
                             <Card.Title>Calc Money</Card.Title>
                             <Card.Text>Money accounting application</Card.Text>
@@ -175,7 +175,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="HTML">
-                        <Card.Img variant="top" src="img/spacex.jpg"/>
+                        <Card.Img variant="top" src="spacex.jpg"/>
                         <Card.Body>
                             <Card.Title>SpaceX</Card.Title>
                             <Card.Text>Analogue of the site of the company Ilona Mask</Card.Text>
@@ -201,7 +201,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/itunes.jpeg"/>
+                        <Card.Img variant="top" src="itunes.jpeg"/>
                         <Card.Body>
                             <Card.Title>iTunes</Card.Title>
                             <Card.Text>Site with media players in Java Script</Card.Text>
@@ -227,7 +227,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/Avito_case_new_logo.jpg"/>
+                        <Card.Img variant="top" src="Avito_case_new_logo.jpg"/>
                         <Card.Body>
                             <Card.Title>Awito</Card.Title>
                             <Card.Text>Analogue of the site of ads "Avito"</Card.Text>
@@ -245,7 +245,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="HTML">
-                        <Card.Img variant="top" src="img/starWars.jpeg"/>
+                        <Card.Img variant="top" src="starWars.jpeg"/>
                         <Card.Body>
                             <Card.Title>Star Wars</Card.Title>
                             <Card.Text>Promo site for the movie "Star Wars"</Card.Text>
@@ -271,7 +271,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="HTML">
-                        <Card.Img variant="top" src="img/Ghostbusters.jpg"/>
+                        <Card.Img variant="top" src="Ghostbusters.jpg"/>
                         <Card.Body>
                             <Card.Title>Ghostbusters</Card.Title>
                             <Card.Text>Promo site for the film "Ghostbusters"</Card.Text>
@@ -297,7 +297,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="HTML">
-                        <Card.Img variant="top" src="img/distance.jpg"/>
+                        <Card.Img variant="top" src="distance.jpg"/>
                         <Card.Body>
                             <Card.Title>Distance</Card.Title>
                             <Card.Text>The main page of the fictional social networks</Card.Text>
@@ -323,7 +323,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/netclicks.png"/>
+                        <Card.Img variant="top" src="netclicks.png"/>
                         <Card.Body>
                             <Card.Title>Netclix</Card.Title>
                             <Card.Text>TV series website</Card.Text>
@@ -349,7 +349,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/CinemaSearch.jpg"/>
+                        <Card.Img variant="top" src="CinemaSearch.jpg"/>
                         <Card.Body>
                             <Card.Title>Cinema Search</Card.Title>
                             <Card.Text>Site for finding films and information about them</Card.Text>
@@ -374,7 +374,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/Delivery-food.jpg"/>
+                        <Card.Img variant="top" src="Delivery-food.jpg"/>
                         <Card.Body>
                             <Card.Title>Delivery Food</Card.Title>
                             <Card.Text>An analogue of the "Delivery club" food delivery website</Card.Text>
@@ -399,7 +399,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="HTML">
-                        <Card.Img variant="top" src="img/Batman2021.jpg"/>
+                        <Card.Img variant="top" src="Batman2021.jpg"/>
                         <Card.Body>
                             <Card.Title>Batman2021</Card.Title>
                             <Card.Text>Promo site for Batman movie due out in 2021</Card.Text>
@@ -425,7 +425,7 @@ export const Works = () => {
                     </Card>
 
                     <Card data-work="HTML">
-                        <Card.Img variant="top" src="img/The_Witcher.jpg"/>
+                        <Card.Img variant="top" src="The_Witcher.jpg"/>
                         <Card.Body>
                             <Card.Title>The Witcher</Card.Title>
                             <Card.Text>Promo website for the Witcher series from Netflix</Card.Text>
@@ -450,7 +450,7 @@ export const Works = () => {
                     </Card>
                     
                     <Card data-work="Java Script">
-                        <Card.Img variant="top" src="img/aviasales.jpg"/>
+                        <Card.Img variant="top" src="aviasales.jpg"/>
                         <Card.Body>
                             <Card.Title>Аviasales</Card.Title>
                             <Card.Text>Analogue of the website of the company "Aviasales"</Card.Text>
