@@ -30,7 +30,7 @@ function Navibar() {
                         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="mr-auto">
-                                <Nav.Link><Link to="/">Home</Link></Nav.Link>
+                                <Nav.Link><Link to="/portfolio-frontend">Home</Link></Nav.Link>
                                 <Nav.Link><Link to="/works">Works</Link></Nav.Link>
                                 <Nav.Link><Link to="/сontacts">Contacts</Link></Nav.Link>
                             </Nav>
