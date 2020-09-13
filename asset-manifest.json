@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.js": "/portfolio-frontend/static/js/main.311a7db7.chunk.js",
-    "main.js.map": "/portfolio-frontend/static/js/main.311a7db7.chunk.js.map",
+    "main.js": "/portfolio-frontend/static/js/main.efba3be3.chunk.js",
+    "main.js.map": "/portfolio-frontend/static/js/main.efba3be3.chunk.js.map",
     "runtime-main.js": "/portfolio-frontend/static/js/runtime-main.ce51a497.js",
     "runtime-main.js.map": "/portfolio-frontend/static/js/runtime-main.ce51a497.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/portfolio-frontend/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.bffd553a.chunk.js": "/portfolio-frontend/static/js/2.bffd553a.chunk.js",
-    "static/js/2.bffd553a.chunk.js.map": "/portfolio-frontend/static/js/2.bffd553a.chunk.js.map",
+    "static/js/2.39bc0642.chunk.js": "/portfolio-frontend/static/js/2.39bc0642.chunk.js",
+    "static/js/2.39bc0642.chunk.js.map": "/portfolio-frontend/static/js/2.39bc0642.chunk.js.map",
     "index.html": "/portfolio-frontend/index.html",
-    "precache-manifest.d7b48584f895d23ae0e2a4da814627ea.js": "/portfolio-frontend/precache-manifest.d7b48584f895d23ae0e2a4da814627ea.js",
+    "precache-manifest.ce71d72bcbea0ffc6c9428bcee4084b3.js": "/portfolio-frontend/precache-manifest.ce71d72bcbea0ffc6c9428bcee4084b3.js",
     "service-worker.js": "/portfolio-frontend/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/portfolio-frontend/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/js/2.bffd553a.chunk.js.LICENSE.txt": "/portfolio-frontend/static/js/2.bffd553a.chunk.js.LICENSE.txt",
+    "static/js/2.39bc0642.chunk.js.LICENSE.txt": "/portfolio-frontend/static/js/2.39bc0642.chunk.js.LICENSE.txt",
     "static/media/1533622641_85be1d0bf982000f887099fc7b15bcc1__1440x.jpg": "/portfolio-frontend/static/media/1533622641_85be1d0bf982000f887099fc7b15bcc1__1440x.07499ae9.jpg",
-    "static/media/avatar.jpg": "/portfolio-frontend/static/media/avatar.190f10e6.jpg"
+    "static/media/avatar.jpg": "/portfolio-frontend/static/media/avatar.190f10e6.jpg",
+    "static/media/itmo.png": "/portfolio-frontend/static/media/itmo.f3cafa4c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ce51a497.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.bffd553a.chunk.js",
-    "static/js/main.311a7db7.chunk.js"
+    "static/js/2.39bc0642.chunk.js",
+    "static/js/main.efba3be3.chunk.js"
   ]
 }
