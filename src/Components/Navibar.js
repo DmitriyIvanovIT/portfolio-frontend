@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Navbar, Nav, Button, Container, Modal, Form } from 'react-bootstrap';
 import {Link} from 'react-router-dom';
 import styled from 'styled-components';
+import itmo from '../img/itmo.png'
 
 const Styles = styled.div `
     a, .navbar-brand, .navbar-nav .nav-link {
@@ -26,13 +27,13 @@ function Navibar() {
             <Styles>
                 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                     <Container>
-                        <Navbar.Brand><img src="itmo.png" with ='auto' height='60px' /></Navbar.Brand>
+                        <Navbar.Brand><img src={itmo} with ='auto' height='60px'/></Navbar.Brand>
                         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="mr-auto">
-                                <Nav.Link><Link to="/portfolio-frontend">Home</Link></Nav.Link>
-                                <Nav.Link><Link to="/works">Works</Link></Nav.Link>
-                                <Nav.Link><Link to="/сontacts">Contacts</Link></Nav.Link>
+                                <Nav.Link><Link to="/portfolio-frontend/">Home</Link></Nav.Link>
+                                <Nav.Link><Link to="/portfolio-frontend/works">Works</Link></Nav.Link>
+                                <Nav.Link><Link to="/portfolio-frontend/сontacts">Contacts</Link></Nav.Link>
                             </Nav>
                             <Nav>
                                 <Button variant="primary" className="mr-2" onClick={handleShow}>Log In</Button>

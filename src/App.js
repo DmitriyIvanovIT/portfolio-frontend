@@ -20,7 +20,7 @@ function App() {
       <Router>
         <Navibar/>
         <Switch>
-          <Route exact path="/portfolio-frontend" component={Home}/>
+          <Route exact path="/portfolio-frontend/" component={Home}/>
           <Route path="/portfolio-frontend/works" component={Works}/>
           <Route path="/portfolio-frontend/сontacts" component={Contacts}/>
         </Switch>
